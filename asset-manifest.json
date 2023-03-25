@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dztest8/static/css/main.a21c5092.css",
+    "main.js": "/dztest8/static/js/main.3eef749a.js",
+    "index.html": "/dztest8/index.html",
+    "main.a21c5092.css.map": "/dztest8/static/css/main.a21c5092.css.map",
+    "main.3eef749a.js.map": "/dztest8/static/js/main.3eef749a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a21c5092.css",
+    "static/js/main.3eef749a.js"
+  ]
+}
