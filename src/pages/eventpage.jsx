@@ -10,7 +10,7 @@ export const EventPage = () => {
     fetchEvents(eventId)
       .then(setAEvents)
       .catch(error => console.log(error));
-  }, []);
+  }, [eventId]);
   return (
     <div>
       <ul>
